@@ -1,2 +1,2 @@
-# CrystakCaravan
+# CrystalCaravan
 Unity Action Adventure Game
